@@ -4,7 +4,7 @@ Hi! 😃 Use this repo to find a quick solution to get rid of some pesky 508 com
 For the purposes of demostrating 508 compliance issues, I will be using [ANDI](https://www.ssa.gov/accessibility/andi/help/install.html) accessibilty alerts.
 
 ## Table of Contents:
-- DataTables
+- [DataTables](https://github.com/semperag/508-Gateway/blob/main/README.md#datatables-link)
 
 ## DataTables [:link:](https://datatables.net/)
 
